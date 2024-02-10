@@ -1,8 +1,8 @@
-Pubs Data Warehousing Project
+Publishers Data Warehousing Project
 
 Overview
 
-This project focuses on building a data warehousing solution for managing and analyzing a publishing company's operations. Utilizing the "pubs" dataset, our solution encompasses the entire publishing process, from tracking title sales and managing author contracts to handling publisher information and employee details.
+This project focuses on building a data warehousing solution for managing and analyzing a publishing company's operations. Utilizing the "publishers" dataset, our solution encompasses the entire publishing process, from tracking title sales and managing author contracts to handling publisher information and employee details.
 
 Dataset
 
